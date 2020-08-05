@@ -35,12 +35,14 @@
 <br />
 <br />
 
-
-
-<img align="left" alt="Shamrat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shamrat1&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/shamrat_yasin
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/yasinshamrat/
 [linkedin]: https://www.linkedin.com/in/yasin-shamrat/
 [Facebook]: https://www.facebook.com/ysss07/
+
+### My Recent github stats
+
+<img align="left" alt="Shamrat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shamrat1&show_icons=true&hide_border=true" />
+
+
