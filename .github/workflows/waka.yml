@@ -1,0 +1,16 @@
+name: Shamrat's Profile Stats
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.754a8cd9-2a69-4168-83a4-70e7a2aa8b44 }}
+          GH_TOKEN: ${{ secrets.9baeadacda9c79dc906fedddb5bd4de9531c84c1 }}
