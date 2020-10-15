@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<img align="center" width="600px" alt="shamrat1 | Coding Activity" src="https://wakatime.com/share/@shamrat1/3ee96618-22b8-4268-ba7c-0c904f5fde2b.svg" />
+<!-- <img align="center" width="600px" alt="shamrat1 | Coding Activity" src="https://wakatime.com/share/@shamrat1/3ee96618-22b8-4268-ba7c-0c904f5fde2b.svg" /> -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
