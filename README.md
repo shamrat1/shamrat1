@@ -1,10 +1,10 @@
 ### Hi there, I'm Yasin Siraj Shamrat 👋
 
-## I'm a Full Stack Developer and iOS Novice!
-- 🔭 I’m currently working at [SpinnerTech](https://www.spinnertech.dev/)! as freelance developer
-- 🌱 I’m currently learning React 
+## I'm a Full Stack Developer and Flutter Novice!
+- 🔭 I’m currently working at an Start-up as a Full Stack Developer
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to contribute in open source project in laravel and iOS
-- 🥅 2020 Goals: Develop and launch app for iOS
+- 🥅 2020 Goals: Develop and launch app for iOS and Android
 - ⚡ Fun fact: I love to watch Movies and travelling to mountains and beaches
 
 ### Connect with me:
