@@ -1,6 +1,6 @@
 ### Hi there, I'm Yasin Siraj Shamrat 👋
 
-## I'm a Full Stack Developer and Flutter Novice!
+## I'm a Full Stack & iOS Dev!
 - 🔭 I’m currently working at an Start-up as a Full Stack Developer
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to contribute in open source project in laravel and iOS
