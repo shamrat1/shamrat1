@@ -1,7 +1,7 @@
 ### Hi there, I'm Yasin Siraj Shamrat 👋
 
-## I'm a Full Stack & iOS Dev!
-- 🔭 I’m currently working at an Start-up as a Full Stack Developer
+## I'm a Full Stack & Mobile Application Dev!
+- 🔭 I’m currently working at an Start-up as a Software Engineer.
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to contribute in open source project in laravel and iOS
 - 🥅 2020 Goals: Develop and launch app for iOS and Android
