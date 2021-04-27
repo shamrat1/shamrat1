@@ -1,11 +1,11 @@
 ### Hi there, I'm Yasin Siraj Shamrat 👋
 
 ## I'm a Full Stack & Mobile Application Dev!
-- 🔭 I’m currently working at an Start-up as a Software Engineer.
+- 🔭 I’m currently working at an e-commerce company as a Software Engineer.
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to contribute in open source project in laravel and iOS
 - 🥅 2021 Goals: Develop and launch app using Flutter for iOS and Android
-- ⚡ Fun fact: I love to watch Movies and travelling to mountains and beaches
+- ⚡ Fun fact: I love to watch Movies and travel to mountains and beaches
 
 ### Connect with me:
 
@@ -33,7 +33,6 @@
 <img align="left" alt="ios" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="digital-ocean" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 <br />
 <br />
