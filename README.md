@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack & Mobile Application Dev!
 - 🔭 I’m currently working at an e-commerce company as a Software Engineer.
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Blockchain Technology
 - 👯 I’m looking to contribute in open source project in laravel and iOS
 - 🥅 2021 Goals: Develop and launch app using Flutter for iOS and Android
 - ⚡ Fun fact: I love to watch Movies and travel to mountains and beaches
