@@ -1,10 +1,9 @@
 ### Hi there, I'm Yasin Siraj Shamrat 👋
 
 ## I'm a Full Stack & Mobile Application Dev!
-- 🔭 I’m currently working at an e-commerce company as a Software Engineer.
+- 🔭 I’m currently working at [Abdaar](https://www.abdaar.com).
 - 🌱 I’m currently learning Blockchain Technology
-- 👯 I’m looking to contribute in open source project in laravel and iOS
-- 🥅 2021 Goals: Develop and launch app using Flutter for iOS and Android
+- 🥅 2022 Goals: Help at least 20 orphan kids to celebrate Eid-Ul-Fitr
 - ⚡ Fun fact: I love to watch Movies and travel to mountains and beaches
 
 ### Connect with me:
